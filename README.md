@@ -9,4 +9,4 @@ Com estes exercícios, pude treinar e melhorar meus conhecimentos em:
 *Criação e manipulação de listas
 *Criação e manipulação de dicionários
 *Tuplas
-*Aprendi também a planejar meus algoritmos antes do código 
+*Algoritmos: planejamento e desenvolvimento das ideias por etapas antes do código
